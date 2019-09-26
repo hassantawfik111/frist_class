@@ -4,8 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryDark"
-    tools:context=".SplashActivity">
+    android:background="@color/colorYellow"
+    tools:context=".SplashActivity"
+
+    >
 
 <TextView
     android:id="@+id/UserNameLabel"
